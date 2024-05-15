@@ -33,5 +33,5 @@ npm i --save @lion/ui
 ```js
 import { LionInputIban } from '@lion/ui/input-iban.js';
 // or
-import '@lion/ui/define/lion-input-amount.js';
+import '@lion/ui/define/lion-input-iban.js';
 ```
